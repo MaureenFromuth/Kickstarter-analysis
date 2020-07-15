@@ -23,7 +23,7 @@ Additionally, we needed to break out the data within the 'Category and Subcatego
 
 ### Analysis of Outcomes Based on Launch Date
 
-![]("Outcomes_vs_Goals.png")
+![Outcomes for Plays Based on Goal]("Outcomes_vs_Goals.png")
 
 ### Analysis of Outcomes Based on Goals
 
