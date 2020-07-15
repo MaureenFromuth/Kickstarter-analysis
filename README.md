@@ -23,7 +23,7 @@ Additionally, we needed to break out the data within the 'Category and Subcatego
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Outcomes for Plays Based on Goal]("https://github.com/MaureenFromuth/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png")
+![Outcomes for Plays Based on Goal](https://github.com/MaureenFromuth/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
 ### Analysis of Outcomes Based on Goals
 
