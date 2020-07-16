@@ -40,6 +40,8 @@ We then highlighted the table and created the following line chart to display th
 
 ![Outcome of Theater Campaign Based on Launch Date](https://github.com/MaureenFromuth/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
 
+Using this graph, you can see that with the exception of December, there were always a greater number of successful theater kickstarter campaigns than failed and cancelled campaigns.  Additionally, the greatest number of failed theater projects was in the month of May.  That said, the months of February and May have the highest number of successful theater campaigns.  Finally, there is the largest difference between successful and failed outcomes during the months of May, June, and July.  
+
 ### Analysis of Outcomes Based on Goals
 
 We also conducted analysis on the outcome of other Kickstarter campaigns for plays based on their fundraising goal.  We started our analysis by looking at the overall fundraising goals in column D and breaking these goals into twelve separate groups, which acted as our rows:
@@ -81,6 +83,8 @@ Using the resulting table, we created a line chart representing the percentage o
 
 ![Outcome of Play Campaign Based on Goal](https://github.com/MaureenFromuth/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
+
+
 Of note, this analysis did not take into account the currency of the goal.  As a result, we did not convert the currency of the each goal into a common currency.  This may have an impact on the overall assessment, and should either be converted in the future or analysis should be done for a specific country.
 
 ### Challenges and Difficulties Encountered
@@ -100,7 +104,10 @@ While data challenges were limited, there is often issues with completeness of d
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+Based off of the prelimary analysis we conducted for Louise, we can make a few conclusions on how launch dates and goals may impact the outcome of a Kickstarter campaign.  
+
+For example, our preliminary analysis leads us to the conclustion that the most optimal time to launch a kickestarer campaign for a theater is in the months of May, followed by June, and then July.  This is due to the fact that, despite the highest number of failed theater projects is also being in May, the difference between successful and failed outcomes is greatest during that month and is actually more than twice the number of failed projects.  Additionally, the worst month to launch a kickstarter campaign for a theater project is in the month of December. 
+
 
 - What can you conclude about the Outcomes based on Goals?
 
