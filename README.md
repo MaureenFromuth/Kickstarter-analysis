@@ -83,9 +83,7 @@ Using the resulting table, we created a line chart representing the percentage o
 
 ![Outcome of Play Campaign Based on Goal](https://github.com/MaureenFromuth/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
 
-
-
-Of note, this analysis did not take into account the currency of the goal.  As a result, we did not convert the currency of the each goal into a common currency.  This may have an impact on the overall assessment, and should either be converted in the future or analysis should be done for a specific country.
+This graph highlights that there are more successful play campaigns with fundraising goals under $19,999 and between $35,000 and $44,999.  Additionally, there are zero successful play campaigns who attempted to raise money between $45,000 and $49,999. 
 
 ### Challenges and Difficulties Encountered
 
@@ -106,11 +104,10 @@ While data challenges were limited, there is often issues with completeness of d
 
 Based off of the prelimary analysis we conducted for Louise, we can make a few conclusions on how launch dates and goals may impact the outcome of a Kickstarter campaign.  
 
-For example, our preliminary analysis leads us to the conclustion that the most optimal time to launch a kickestarer campaign for a theater is in the months of May, followed by June, and then July.  This is due to the fact that, despite the highest number of failed theater projects is also being in May, the difference between successful and failed outcomes is greatest during that month and is actually more than twice the number of failed projects.  Additionally, the worst month to launch a kickstarter campaign for a theater project is in the month of December. 
+For example, our preliminary analysis leads us to the conclusion that the most optimal time to launch a kickestarer campaign for a theater is in the months of May, followed by June, and then July.  This is due to the fact that, despite the highest number of failed theater projects is also being in May, the difference between successful and failed outcomes is greatest during that month and is actually more than twice the number of failed projects.  Additionally, the worst month to launch a kickstarter campaign for a theater project is in the month of December.  Therefore, Louise should launch her theater Kickstarter campaign ideally in the month of May, and if she launched in December, she is has the least likely chance of a successful campaign.
 
+Additionally, the analysis on the impact of the fundraising goal on the outcome leads to the conslusion that the most optimal goal is less than $5,000 for plays, and between $35,000 and $45,000.  Similarly, Louise should avoid setting a goal at $45,000 or above.  
 
-- What can you conclude about the Outcomes based on Goals?
+These results, however, are prelimary and should be suplemented by additional data and analysis.  More specifically, although the data is relatively complete there are a few issues.  For example, the currency data for the goal was not consistent, and we did not convert the currency of the each goal into a common currency.  This may have an impact on the overall assessment, and should either be converted in the future or analysis should be done for a specific country.  Likewise, there was no information related to the way in which these campaigns were advertised.  For example, was the Kickstarter campaigns all advertised via the primary Kickstarter website?  If so, what was the amount traffic to these websites?  Additional information on the financial status of the project owners would also be beneficial.  In knowning this, it may be helpful to understand the drivers of successful campaigns rather than merely the time of year and goal.  
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create? 
+Absent additional data, however, there is additional analysis that can be conducted to see the potential impact of adveristing or highlighting on the outcome of a campaign.  More specifically, you could look at how many staff picks were successful, failed, and canceled to determine if the staff has any influence over fundraising outcomes.  Similarly, you could assess how many highlighted campaigns have successful, failed, and canceled outcomes.  This could give insight as to whether highlighting a campaign leads to a greater potential for a successful fundraising effort.  Finally, you could compare the impact of all of these attributes (goal, launch date, highlight, and staff pick) on the outcome per year.  This would provide insight into any trends these attributes have had over the years, which ones are still relevant and which ones are not.   
